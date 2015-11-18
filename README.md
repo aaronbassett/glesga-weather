@@ -1,2 +1,2 @@
-# glasgae-weather
+# glesga-weather
 Yahoo weather API codes in the Glasgow vernacular
